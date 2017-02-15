@@ -22,9 +22,9 @@
  ```
 
 ## TODO ##
-  * Add picker for selecting timezone.
-  * Add picker for selecting type of Date/Time picker and selectively render.
-  * Implement redux.
+ * Add picker for selecting timezone.
+ * Add picker for selecting type of Date/Time picker and selectively render.
+ * Implement redux.
 
 ## Acknowledgements ##
-* Adapted from Facebook's [DatePickerIOS example](https://facebook.github.io/react-native/docs/datepickerios.html)
+ * Adapted from Facebook's [DatePickerIOS example](https://facebook.github.io/react-native/docs/datepickerios.html)
