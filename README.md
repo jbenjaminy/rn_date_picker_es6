@@ -16,7 +16,7 @@
   $ npm run start
  ```
 
- * __To run iOS Simulator:__
+* __To run iOS Simulator:__
  ```
   $ react-native run ios
  ```
