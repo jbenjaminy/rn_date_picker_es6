@@ -18,7 +18,7 @@
 
 * __To run iOS Simulator:__
  ```
-  $ react-native run ios
+  $ react-native run-ios
  ```
 
 ## TODO ##
